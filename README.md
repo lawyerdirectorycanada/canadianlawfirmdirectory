@@ -1,5 +1,5 @@
 # canadianlawfirmdirectory
-Lawyer Directory Canadaaaaaa
+Lawyer Directory Canada
 # Lawyer Directory Canada
 
 A comprehensive directory of law firms and lawyers across Canada. Search by province, practice area, and city to find the right legal representation.
